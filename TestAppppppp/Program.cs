@@ -8,7 +8,7 @@ namespace TestAppppppp
 		{
 			Console.WriteLine("Hello World!");
 
-			Console.WriteLine("31");
+			Console.WriteLine("31-12-2022");
 		}
 	}
 }
